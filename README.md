@@ -1,2 +1,0 @@
-# astro
-Created with CodeSandbox
